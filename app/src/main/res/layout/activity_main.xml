@@ -55,7 +55,7 @@
         app:srcCompat="@drawable/bione_removebg_preview" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btnStart"
         android:layout_width="285dp"
         android:layout_height="48dp"
         android:background="@drawable/buttonred"
